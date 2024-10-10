@@ -28,10 +28,10 @@
 
 ## 팀원 소개
 
-- **최재우** - Backend Developer
-- **박준혁** - Project Manager
-- **신동훈** - Data Scientist
+- **최재우** - Backend Developer, Data
+- **박준혁** - AI Developer, frontend Developer
+- **신동훈** - Backend Developer
 
 ## 연락처
 
-궁금한 점이 있거나 문의 사항이 있으시면, 다음 이메일로 연락해 주세요: lhj6364@naver.com
+궁금한 점이 있거나 문의 사항이 있으시면, 다음 이메일로 연락해 주세요: choizeus0212@gmail.com
